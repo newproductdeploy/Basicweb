@@ -25,14 +25,13 @@
 	width: 20%;
 	line-height: 100px;
 	float: left;
-/*	background-color: yellow;*/
 }
 
 .leftmenu h4{
-	padding-left: 70px;
+	padding-left: 65px;
 	font-weight: bold;
 	color: white;
-	font-size: 22px;
+	font-size: 20px;
 	font-family: 'Montserrat', sans-serif;
 }
 
@@ -55,7 +54,7 @@
 	font-size: 20px;
 	font-weight: bold;
 	line-height: 100px;
-	margin-left: 5px;
+	margin-left: 10px;
 	text-transform: uppercase;
 }
 
@@ -80,7 +79,7 @@
 	width: 100%;
 	margin-top: 300px;
 	text-transform: uppercase;
-	left : 60px;
+	left : 45px;
 	color:white;
 }
 
