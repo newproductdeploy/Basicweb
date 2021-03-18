@@ -71,7 +71,7 @@
 .new{
 	position: absolute;
 	width : 300px; 
-	margin-top : 20px; 
+	margin-top : 10px; 
 	align : center;
 	left : 10px
 }
@@ -80,7 +80,7 @@
 	width: 100%;
 	margin-top: 300px;
 	text-transform: uppercase;
-	text-align: center;
+	left : 10px;
 	color:white;
 }
 
