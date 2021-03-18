@@ -26,7 +26,7 @@
 .rightmenu{
 	width:70%;
 	height: 100px;
-	float: right;
+	bottom : 1px;
 /*	background-color: red; */
 }
 
@@ -42,7 +42,7 @@
 	color:white;
 	font-weight: bold;
 	line-height: 100px;
-	margin-left: 30px;
+	margin-left: 10px;
 	text-transform: uppercase;
 
 }
