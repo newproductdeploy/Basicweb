@@ -77,10 +77,11 @@
 }
 
 .text{
+	position : absolute;
 	width: 100%;
 	margin-top: 200px;
 	text-transform: uppercase;
-	left : 25px;
+	left : 60px;
 	color:white;
 }
 
