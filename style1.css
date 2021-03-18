@@ -24,6 +24,7 @@
 }
 
 .rightmenu{
+	position : absolute;
 	width:70%;
 	height: 100px;
 	bottom : 1px;
