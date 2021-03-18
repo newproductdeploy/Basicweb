@@ -65,10 +65,16 @@
 	color: orange;
 }
 
+.new{
+	position: absolute;
+	width : 300px; 
+	margin-top : 200px; 
+	left:600px;
+}
 
 .text{
 	width: 100%;
-	margin-top: 185px;
+	margin-top: 50px;
 	text-transform: uppercase;
 	text-align: center;
 	color:white;
