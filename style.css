@@ -37,7 +37,7 @@
 	width:70%;
 	height: 100px;
 	float: right;
-/*	background-color: red; */
+	bottom : 10px;
 }
 
 .rightmenu ul{
@@ -52,7 +52,7 @@
 	color:white;
 	font-weight: bold;
 	line-height: 100px;
-	margin-left: 40px;
+	margin-left: 10px;
 	text-transform: uppercase;
 
 }
