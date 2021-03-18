@@ -57,7 +57,7 @@
 	font-size: 15px;
 	font-weight: bold;
 	line-height: 100px;
-	margin-left: 15px;
+	margin-left: 10px;
 	text-transform: uppercase;
 
 }
@@ -71,7 +71,7 @@
 }
 
 .new{
-	position: absolute;
+	position: fixed;
 	width : 300px; 
 	margin-top : 10px; 
 	align: center;
@@ -79,9 +79,9 @@
 }
 
 .text{
-	position : absolute;
+	position : fixed;
 	width: 100%;
-	margin-top: 300px;
+	margin-top: 300px;	
 	text-transform: uppercase;
 	left : 60px;
 	color:white;
